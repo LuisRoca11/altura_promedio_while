@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "altura_promedio/1.0.0": {
+        "runtime": {
+          "altura_promedio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "altura_promedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.AssemblyInfoInputs.cache
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.AssemblyInfo.cs
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CSharp/altura_promedio/bin/Debug/net8.0/altura_promedio
+/home/luis/Documentos/CSharp/altura_promedio/bin/Debug/net8.0/altura_promedio.deps.json
+/home/luis/Documentos/CSharp/altura_promedio/bin/Debug/net8.0/altura_promedio.runtimeconfig.json
+/home/luis/Documentos/CSharp/altura_promedio/bin/Debug/net8.0/altura_promedio.dll
+/home/luis/Documentos/CSharp/altura_promedio/bin/Debug/net8.0/altura_promedio.pdb
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.dll
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/refint/altura_promedio.dll
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.pdb
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/altura_promedio.genruntimeconfig.cache
+/home/luis/Documentos/CSharp/altura_promedio/obj/Debug/net8.0/ref/altura_promedio.dll
